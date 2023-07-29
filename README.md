@@ -9,8 +9,8 @@ This is a project to evaluate the performance of different fine-tuned neural ASR
 #### Included Models 
 1. OpenAI Whisper Large 
 2. arbml/whisper-largev2-ar
-3. tarteel-ai/whisper-base-ar-quran
-4. tarteel-ai/whisper-tiny-ar-quran
+3. tarteel-ai/whisper-base-ar-quran [Link Here]([https://link-url-here.org]([https://everyayah.com/recitations_ayat.html](https://huggingface.co/tarteel-ai/whisper-base-ar-quran)]) 
+4. tarteel-ai/whisper-tiny-ar-quran [Link Here]([https://link-url-here.org]([https://everyayah.com/recitations_ayat.html](https://huggingface.co/tarteel-ai/whisper-tiny-ar-quran)]) 
 
 
 #### Environment setup 
@@ -23,7 +23,7 @@ conda activate quranwhisper
 ```bash
 pip install -r requirements.txt 
 ```
-3. Add the recitation audio files in the root directory of the project, as shown below: 
+3. Add the recitation audio files [Link Here]([https://link-url-here.org]([https://everyayah.com/recitations_ayat.html]) in the root directory of the project, as shown below: 
 ```bash
     .
     ├── ...
